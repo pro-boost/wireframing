@@ -46,12 +46,6 @@ A well-designed wireframe typically consists of the following core elements:
 - Often interactive and used for user testing.
 - *Use case*: Later stages of design to gather feedback before development.
 
-### 📝 What Type of Wireframe is This?
-
-> (Here, you can insert a screenshot or Figma link and describe it)
-> _Example: "This is a low-fidelity wireframe created using Figma to quickly visualize the layout of an e-commerce homepage."_  
-
----
 
 ## 🛠️ Wireframing Tools
 
